@@ -1,4 +1,6 @@
 # StrongSwan VPN + Alpine Linux
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcbanisi%2Falpine-strongswan-vpn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcbanisi%2Falpine-strongswan-vpn?ref=badge_shield)
+
 
 This repository contains a Dockerfile for generating
 an image with [StrongSwan](https://www.strongswan.org/) and
@@ -216,3 +218,7 @@ Useful resources:
 * [StrongSwan ikev2 Tests](https://www.strongswan.org/testresults.html)
 * [StrongSwan on Windows 7](https://wiki.strongswan.org/projects/strongswan/wiki/Windows7)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcbanisi%2Falpine-strongswan-vpn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcbanisi%2Falpine-strongswan-vpn?ref=badge_large)
